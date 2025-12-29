@@ -20,7 +20,7 @@ current_sum = min_sum
 
 remaining_needed = sumTime - current_sum
 
-for i in range(len(rg_Day)):
+for i in range(len(rg_Day)):    # Greedy distribution
     if remaining_needed <= 0 :
         break
 
