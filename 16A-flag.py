@@ -20,6 +20,3 @@ if valid:
 
 print("YES" if valid else "NO")
 
-
-
-
