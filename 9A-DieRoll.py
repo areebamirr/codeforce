@@ -1,4 +1,6 @@
 
+# Date : 07/1/2026. Successfully solved by own
+
 from fractions import Fraction
 
 y, w = map(int, input().split())
