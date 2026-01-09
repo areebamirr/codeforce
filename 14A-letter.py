@@ -1,3 +1,6 @@
+
+# Date 08/01/2026. Understood the problem.
+
 n, m = map(int, input().split())
 
 rows = []
