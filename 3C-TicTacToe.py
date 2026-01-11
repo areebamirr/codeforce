@@ -1,6 +1,5 @@
 
-# 10/01/2026. Took me 3 hours. Despite wrting whole code to print out seemingly correct result. Codefroce passed my code with 1/135 tests. Learned to code hard alot. Hardword 10/10. Smartwork 2/10. Improved more
-
+# 10/01/2026. Took me 3 hours. Despite wrting whole code to print out seemingly correct result. Codefroce passed my code with 1/135 tests. Learned to code hard alot. Hardword 10/10. Smartwork 2/10. Improved more. It took me 4.5 hours to stick to this one problem
 
 # # My solutions
 # board = []
