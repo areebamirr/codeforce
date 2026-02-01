@@ -1,1 +1,14 @@
-A. Way Too Long Words
+
+# 31/06/2026 String problem. 
+
+n = int(input())
+
+for _ in range(n):
+    word = input()
+    length = len(word)
+    if length > 10:
+        print(f"{word[0]}{length - 2}{word[-1]}")
+    else:
+        print(word)
+    
+
